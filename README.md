@@ -23,7 +23,7 @@ Full Stack Developer | Passionate About Web Development 💻
 <br>
 
 <p align="center">
-Hi! 👋 I'm <strong>Shahd El-Enany</strong>, a Full Stack Developer passionate about building modern, responsive, and user-friendly web applications.
+Hi! 👋 I'm <strong>Shahd Alanani</strong>, a Full Stack Developer passionate about building modern, responsive, and user-friendly web applications.
 <br><br>
 💻 I enjoy turning ideas into real-world web experiences.
 <br>
