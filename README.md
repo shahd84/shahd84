@@ -1,103 +1,148 @@
-<!-- Shahd El-Enany | GitHub Profile README -->
+ <div align="center">
 
-<div align="right">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME" alt="Profile Visitors" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:002B20,35:006B45,70:00A86B,100:39FF88&height=220&section=header&text=SHAHD%20ALANANI&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Future%20Full%20Stack%20Developer&descAlignY=60&descSize=15" width="100%" alt="Shahd Alanani"/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=20&pause=1000&color=39FF88&center=true&vCenter=true&width=600&lines=Hello%2C+World!+%F0%9F%91%8B;I'm+Shahd+Alanani;Building+Modern+Web+Experiences;Learn+%7C+Build+%7C+Grow+%F0%9F%9A%80" alt="Typing animation"/>
+
+<p>
+<a href="https://github.com/shahd84"><img src="https://img.shields.io/badge/GitHub-003B2B?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/shahd-alanani-3759b0416/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<img src="https://komarev.com/ghpvc/?username=shahd84&style=for-the-badge&color=008F5A&label=PROFILE+VIEWS" alt="Profile views"/>
+</p>
+
 </div>
 
-<h1 align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+There!+%F0%9F%91%8B;I'm+Shahd+El-Enany;Full+Stack+Developer;Welcome+to+my+GitHub!&center=true&size=28" alt="Typing SVG" />
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 👩🏻‍💻 About Me
+
+Hi! I'm **Shahd Alanani**, a Frontend Developer passionate about creating modern, responsive, and user-friendly web experiences.
+
+- 💻 Building websites with HTML, CSS, and JavaScript.
+- 🎨 Interested in clean UI and responsive design.
+- 🌱 Exploring TypeScript, Sass, and Angular.
+- 🚀 Working toward becoming a Full Stack Developer.
+- 🤝 Interested in collaboration and continuous learning.
+
+</td>
+<td width="50%" valign="top">
+
+## 🎯 Current Focus
+
+- Building real-world frontend projects.
+- Improving JavaScript skills.
+- Exploring TypeScript and Angular.
+- Creating responsive web interfaces.
+- Writing clean and maintainable code.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,angular&theme=dark" alt="HTML CSS JavaScript TypeScript Sass Angular"/>
+
+**Tools & Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub VS Code"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/shahd84/Delicious">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahd84&repo=Delicious&title_color=39FF88&icon_color=00D68F&text_color=E6FFF4&bg_color=002B20&border_color=008F5A" width="49%" alt="Delicious repository"/>
 </a>
-</h1>
-
-<h3 align="center">
-Full Stack Developer | Passionate About Web Development 💻
-</h3>
-
-<p align="center">
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-<a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a> •
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
-</p>
-
-<br>
-
-<p align="center">
-Hi! 👋 I'm <strong>Shahd Alanani</strong>, a Full Stack Developer passionate about building modern, responsive, and user-friendly web applications.
-<br><br>
-💻 I enjoy turning ideas into real-world web experiences.
-<br>
-🌱 I'm continuously learning and improving my development skills.
-<br>
-🚀 I'm interested in building scalable applications and solving problems through code.
-<br>
-🤝 I'm open to collaborating on interesting projects and learning from other developers.
-<br>
-📫 Feel free to connect with me through my social profiles!
-</p>
-
-<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
-
-<p align="center">
-<!-- Keep only the technologies you actually use -->
-
-<img src="https://skillicons.dev/icons?i=html,css,js" alt="Web Development Skills" />
-<br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" alt="Frontend and Backend Skills" />
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools" />
-<br>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Skills" />
-</p>
-
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true" alt="Shahd's GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" />
-</p>
-
-<p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<h2 align="center">👩‍💻 Featured Projects 👩‍💻</h2>
-
-<p align="center">
-Here are some of my projects. More coming soon! 🚀
-</p>
-
-<!-- Replace the placeholders with your actual repositories -->
-
-<p align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_1">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_1&theme=react&hide_border=true" alt="Featured Project 1" />
+<a href="https://github.com/shahd84/Cruds">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahd84&repo=Cruds&title_color=39FF88&icon_color=00D68F&text_color=E6FFF4&bg_color=002B20&border_color=008F5A" width="49%" alt="CRUDS repository"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_2">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=YOUR_PROJECT_2&theme=react&hide_border=true" alt="Featured Project 2" />
+
+</div>
+
+### 🍽️ Delicious — Restaurant Website
+
+A restaurant website featuring a modern web design and an engaging user interface.
+
+- **Technologies:** HTML, CSS, JavaScript
+- **Live Demo:** [Visit Delicious](https://shahd84.github.io/Delicious/)
+- **Source Code:** [View Repository](https://github.com/shahd84/Delicious)
+
+### 📊 CRUDS — Data Management App
+
+A CRUD application for practicing data management and interactive web development.
+
+- **Technologies:** HTML, CSS, JavaScript
+- **Live Demo:** [Visit CRUDS](https://shahd84.github.io/Cruds/)
+- **Source Code:** [View Repository](https://github.com/shahd84/Cruds)
+
+<div align="center">
+
+<a href="https://github.com/shahd84?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-008F5A?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
-</p>
 
-<h3 align="center">
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-🔎 Explore My Repositories
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shahd84&show_icons=true&hide_border=true&bg_color=002B20&title_color=39FF88&icon_color=00D68F&text_color=E6FFF4&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahd84&layout=compact&hide_border=true&bg_color=002B20&title_color=39FF88&text_color=E6FFF4" alt="Most used languages"/>
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://streak-stats.demolab.com?user=shahd84&background=002B20&ring=39FF88&fire=00D68F&currStreakLabel=39FF88&sideLabels=E6FFF4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9BCDB8&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahd84&bg_color=002B20&color=39FF88&line=00D68F&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/shahd84">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-003B2B?style=for-the-badge&logo=github&logoColor=39FF88" alt="GitHub"/>
 </a>
-</h3>
+<a href="https://www.linkedin.com/in/shahd-alanani-3759b0416/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+<br/><br/>
 
-<p align="center">
-<i>Keep learning, keep building, and keep growing. 💙</i>
-</p>
+*“Every expert was once a beginner. Keep learning, keep building.”*
 
-<!--
-To personalize this README:
-1. Replace YOUR_GITHUB_USERNAME with your GitHub username.
-2. Add your LinkedIn and portfolio URLs.
-3. Keep only the technologies you actually use.
-4. Replace the featured project placeholders with real repositories.
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF88,50:008F5A,100:002B20&height=110&section=footer" width="100%" alt="Green footer"/>
+
+</div>
