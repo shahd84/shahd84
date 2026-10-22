@@ -71,6 +71,11 @@ Hi! I'm **Shahd Alanani**, a Frontend Developer passionate about creating modern
 <a href="https://github.com/shahd84/Cruds">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahd84&repo=Cruds&title_color=39FF88&icon_color=00D68F&text_color=E6FFF4&bg_color=002B20&border_color=008F5A" width="49%" alt="CRUDS repository"/>
 </a>
+<a href="https://shahd84.github.io/Dine-Out/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahd84&repo=Cruds&title_color=39FF88&icon_color=00D68F&text_color=E6FFF4&bg_color=002B20&border_color=008F5A" width="49%" alt="CRUDS repository"/>
+</a>
+
+
 
 </div>
 
