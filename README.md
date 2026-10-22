@@ -65,7 +65,7 @@ Hi! I'm **Shahd Alanani**, a Frontend Developer passionate about creating modern
 
 <div align="center">
 
-<a href="https://github.com/shahd84/Delicious">
+<a href="https://shahd84.github.io/Delicious/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahd84&repo=Delicious&title_color=39FF88&icon_color=00D68F&text_color=E6FFF4&bg_color=002B20&border_color=008F5A" width="49%" alt="Delicious repository"/>
 </a>
 <a href="https://github.com/shahd84/Cruds">
