@@ -74,6 +74,15 @@ Hi! I'm **Shahd Alanani**, a Frontend Developer passionate about creating modern
 <a href="https://shahd84.github.io/Dine-Out/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahd84&repo=Dine-Out&title_color=39FF88&icon_color=00D68F&text_color=E6FFF4&bg_color=002B20&border_color=008F5A" width="49%" alt="Dine-Out repository"/>
 </a>
+<a href="https://shahd84.github.io/Gym/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahd84&repo=Gym&title_color=39FF88&icon_color=00D68F&text_color=E6FFF4&bg_color=002B20&border_color=008F5A" width="49%" alt="Gym repository"/>
+</a>
+<a href="https://shahd84.github.io/Coffee/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahd84&repo=Coffee&title_color=39FF88&icon_color=00D68F&text_color=E6FFF4&bg_color=002B20&border_color=008F5A" width="49%" alt="Coffee repository"/>
+</a>
+<a href="https://shahd84.github.io/fokir_project/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shahd84&repo=fokir_project&title_color=39FF88&icon_color=00D68F&text_color=E6FFF4&bg_color=002B20&border_color=008F5A" width="49%" alt="fokir_project repository"/>
+</a>
 
 
 
